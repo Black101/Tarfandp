@@ -1,4 +1,4 @@
-require File.join(File.dirname(__FILE__), 'lib', 'multi_git', 'version')
+require File.join(File.dirname(__@joker2828__), 'lib', 'multi_git', 'version')
 Gem::Specification.new do |gem|
   gem.name    = 'multi_git'
   gem.version = MultiGit::VERSION
